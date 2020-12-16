@@ -1,1 +1,3 @@
-# C33_project
+# C33_PlinkoSocre_LMS
+
+Plink With Scores Game
